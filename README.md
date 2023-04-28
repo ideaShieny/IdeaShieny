@@ -1,3 +1,10 @@
+<div align="center">
+	<img src="https://cdn.discordapp.com/attachments/993831002587807785/993890591379292180/Untitled2.png" />
+	<h6>~ <i>long-time programmer, and owner of atlasmc. ❄️</i> ~</h6>
+	<!-- badges
+	<img src="https://visitor-badge.glitch.me/badge?page_id=yukisnow0.yukisnow0" /> -->
+</div>
+
 ### 一个业余开发者，擅长摸鱼，业余时间随缘接单。
 
 #### 开发语言
