@@ -24,5 +24,5 @@
 
 这里是我的 Github 主页，可以随便逛逛噢~
 
-[![](https://github-readme-stats.vercel.app/api?username=WYH2004-MC&count_private=true&show_icons=true&locale=cn&include_all_commits=true&theme=material-palenight)](https://github.com/vipwyh2004/vipwyh2004)  
+[![](https://github-readme-stats.vercel.app/api?username=WYH2004-MC&count_private=true&show_icons=true&locale=cn&include_all_commits=true&theme=material-palenight)](https://github.com/ideashieny)  
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=WYH2004-MC&hide=css,html&layout=compact&langs_count=8&theme=material-palenight&card_width=465)](https://github.com/vipwyh2004/vipwyh2004)
