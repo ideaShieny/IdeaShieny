@@ -1,4 +1,4 @@
-### 一个来自中国的大学生+业余开发者，擅长摸鱼，业余时间随缘接单。
+### 一个业余开发者，擅长摸鱼，业余时间随缘接单。
 
 #### 开发语言
 ![java](https://img.shields.io/badge/-java-blue?style=for-the-badge&logo=OpenJDK&logoColor=white)
