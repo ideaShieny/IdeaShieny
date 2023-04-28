@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="https://cdn.discordapp.com/attachments/993831002587807785/993890591379292180/Untitled2.png" />
+	<img src="https://i0.hdslb.com/bfs/new_dyn/a6988da41b7dac4ed0d532e404e5c2d59f27d9ac.jpg" />
 	<h6>~ <i>long-time programmer, and owner of atlasmc. ❄️</i> ~</h6>
 	<!-- badges
 	<img src="https://visitor-badge.glitch.me/badge?page_id=yukisnow0.yukisnow0" /> -->
@@ -25,6 +25,3 @@
 ![git](https://img.shields.io/badge/-git-black?style=for-the-badge&logo=git&logoColor=white)
 ![github](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white)
 ![markdown](https://img.shields.io/badge/-markdown-black?style=for-the-badge&logo=markdown&logoColor=white)
-
-#### Genshin Impact
-![](https://genshin-card.getloli.com/{背景编号}/{米游社ID}.png)
