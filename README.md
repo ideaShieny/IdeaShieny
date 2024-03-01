@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="https://i0.hdslb.com/bfs/new_dyn/a6988da41b7dac4ed0d532e404e5c2d59f27d9ac.jpg" />
+	<img src="https://i0.hdslb.com/bfs/new_dyn/e17b33b0fab16a4c20bcc2a8c4703ba1674143709.jpg" />
 	<h6>~ <i>long-time programmer, and owner of atlasmc. ❄️</i> ~</h6>
 	<!-- badges
 	<img src="https://visitor-badge.glitch.me/badge?page_id=yukisnow0.yukisnow0" /> -->
